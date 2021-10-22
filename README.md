@@ -2,7 +2,7 @@
 
 This is a simple skeleton Flask server project that works on any of the devices supported by [balena][balena-link].
 
-This project simply serves up `"Hello World!"` on port `:80` of your balena device.
+This project simply serves up `"Python Is Our Favorite Programming Language"` on port `:80` of your balena device.
 
 To get this project up and running, you will need to signup for a balena account [here][signup-page] and set up a device, have a look at our [Printing Our Favorite Language][gettingstarted-link]. Once you are set up with balena, you will need to clone this repo locally:
 
